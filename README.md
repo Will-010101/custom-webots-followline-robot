@@ -45,7 +45,7 @@ film.mp4
 ## Project Screenshots
 
 <p align="center">
-  <img src="image.jpg" width="700">
+  <img src="image1.png" width="700">
 </p>
 
 
