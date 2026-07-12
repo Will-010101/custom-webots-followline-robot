@@ -40,12 +40,12 @@ The robot was designed with four IR sensors to detect the path and perform senso
 
 You can watch the simulation demo here:
 
-videos/film (1).mp4
+(videos/film%20(1).mp4)
 
 ## Project Screenshots
 
 <p align="center">
-  <img src="images/image1.png" width="700">
+  <img src="images/image(1).png" width="700">
 </p>
 
 
